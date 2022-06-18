@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+Xylophone App is music instrument app which allows the users to play different tunes based on touch and create their own tunes.
 
 ## Getting Started
 
